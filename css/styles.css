@@ -1,0 +1,15 @@
+.hot__Lusy {
+  display: block;
+  /* width: 100%; */
+  height: auto;
+}
+
+.btn__change {
+  width: 160px;
+  height: 40px;
+  background-color: indigo;
+  color: white;
+  text-align: center;
+  border-style: none;
+  text-transform: uppercase;
+}
